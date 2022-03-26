@@ -12,7 +12,7 @@ import {
   BrowserRouter as Router,
   Route,
   Switch,
-  Redirect,
+ 
 } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
