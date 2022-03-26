@@ -8,10 +8,7 @@ function Type() {
         strings: [
           "I am Junior Developer",
           "I enjoy coding javascript",
-          "and nodejs",
-          "reactjs",
-          ",css3",
-          "I am open to try other Programming languages",
+          "nodejs ,reactj, css3 and typescript",
           "Background  C-programming"
         ],
         autoStart: true,
