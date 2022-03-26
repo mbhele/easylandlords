@@ -738,3 +738,10 @@ html {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+
+@media only screen and (max-width: 425px){
+	.img-fluid{
+       margin-left:2rem;
+  }
+}
