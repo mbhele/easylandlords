@@ -27,8 +27,8 @@ function Home() {
               </div>
             </Col>
 
-            <Col md={5} style={{ paddingBottom: 20 }}>
-              <img src={mbuso} style={{ borderRadius: '2%', width:'70%',marginTop: '50px'}} alt="home pic" className="img-fluid" />
+            <Col md={5} style={{ paddingBottom: 21 }}>
+              <img src={mbuso} style={{ borderRadius: '50%', width:'70%',marginTop: '50px'}} alt="home pic" className="img-fluid" />
             </Col>
           </Row>
         </Container>
