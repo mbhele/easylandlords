@@ -10,7 +10,7 @@ function Type() {
           "I am web developer",
           "Who is based in Stellenbosch. ",
           "I enjoy build web applications",
-          " and presenting  my software to the  clients"
+          "and presenting  my software to the  clients"
         ],
         autoStart: true,
         loop: true,
