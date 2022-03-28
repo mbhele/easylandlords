@@ -19,14 +19,13 @@ function Home2() {
             </h1>
             <p className="home-about-body">
            
-            I bought the idea of programming five years ago, and since then, I have never stopped sharpening my programming skills.
-
+            I am Mbusiseni. I bought the idea of programming five years ago, and since then, I have never stopped sharpening my programming skills.
 
 
               
               <br />
               <br />
-              I can code in javascript, nodejs,Python(basic) and not forgetting our noun(HTML) and adjective(CSS).
+              I can code in javascript, nodejs,Python(basic) and not forgetting our HTML(Noun) and CSS(adjective).
 
 
 

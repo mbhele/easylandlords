@@ -11,8 +11,11 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
            Hello again, I am <span className="purple">Mbusiseni Mbhele </span>
-         a developer from <span className="purple"> South Africa, Stellenbosch. </span>
-            <br />I am innovative, task driven professional with 3+ years of experience in web design and development across  I am passionate about JavaScript or any web technologies. I work extremely hard, and I am willing to learn new trending tech stacks. 
+         a developer from <span className="purple"> South Africa(Stellenbosch). </span>
+            <br />
+I am an innovative, task-driven professional with 3+ years of experience in web design. I am passionate about JavaScript or any web technology. I work extremely hard, and I am always ready to pick up new trending tech stacks.
+
+ 
             I value communication and writing clean and readable code
             <br />
             <br />
@@ -20,7 +23,7 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <FaCheck />  Meditation
+              <FaCheck />  Swimming
             </li>
             <li className="about-activity">
               <FaCheck  /> Entrepreneur
