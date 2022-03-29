@@ -19,8 +19,8 @@ https://binary-agent.web.app/
  This is a full-stack application designed for landlords who aims at displaying their services online.  It also helps landlords
  study other landlord selling propositions on the website. 
 
-Built With
-This section list frameworks/libraries used to bootstrap my project.
+## list frameworks/libraries used to bootstrap my project.
+
 
 - vannila javascript
 - css 
