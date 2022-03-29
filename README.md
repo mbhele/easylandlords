@@ -22,16 +22,16 @@ https://binary-agent.web.app/
 Built With
 This section list frameworks/libraries used to bootstrap my project.
 
-vannila javascript
-css 
-html
-boostrap
-mongodB
-mongoose
-nodejs
-cloudinary
-ejs temaplate
-box-map
+- vannila javascript
+- css 
+- html
+- bootstrap
+- mongodB
+- mongoose
+- nodejs
+- cloudinary
+- ejs temaplate
+- box-map
 
 
 ## Licence & copyright
