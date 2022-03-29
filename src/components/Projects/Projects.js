@@ -35,7 +35,7 @@ function Projects() {
               imgPath={acutesolar}
               isBlog={false}
               title="AcuteSolar"
-              description="This Website was built for the solar entiety. It a simple website built with javascript , css, html, boostrap and php tech stack. The aim of the entitity was to display it services and contact details to it customers "
+              description="The Website is for the solar entity. It a simple website built with in javascript , css, html, and boostrap. The aim of the entitity was to display it services and contact details to it customers "
               link="https://acutesolar.co.za/"
             />
           </Col>
@@ -44,9 +44,9 @@ function Projects() {
             <ProjectCard
               imgPath={easylandlord }
               isBlog={false}
-              title=""
-              description=""
-              link=""
+              title="easylandlords"
+              description="This is a full-stack application designed for landlords who aims at displaying their services online. It also helps landlords study other landlord selling propositions on the website."
+              link="https://github.com/mbhele/easylandlords/"
             />
           </Col>
 
