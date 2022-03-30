@@ -18,15 +18,14 @@ function Home2() {
               ALLOW ME TO<span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I bought the idea of programming five years ago, and I never stopped loving programming.
-
-
+           
+            I am Mbusiseni. I bought the idea of programming five years ago, and since then, I have never stopped sharpening my programming skills.
 
 
               
               <br />
               <br />
-              I can code in javascript, nodejs,Python(basic) and not forgetting our noun(HTML) and adjective(CSS).
+              I can code in javascript, nodejs,Python(basic) and not forgetting our HTML(Noun) and CSS(adjective).
 
 
 
@@ -75,7 +74,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/mbhele_ndlela"
+                  href="https://twitter.com/1mbhele"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
