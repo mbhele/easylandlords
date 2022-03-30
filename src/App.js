@@ -6,7 +6,7 @@ import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer";
 
-import Certification from "./components/Certification/Certificates"; 
+
 
 import {
   BrowserRouter as Router,
@@ -41,8 +41,7 @@ function App() {
           <Route path="/project" exact component={Projects} />
           <Route path="/about" exact component={About} />
        
-          <Route path="/certication" exact component={Certification} />
-      
+         
         </Switch>
         <Footer />
       </div>

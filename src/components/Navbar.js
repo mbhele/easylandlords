@@ -78,16 +78,7 @@ function NavBar() {
 
           
 
-            <Nav.Item>
-              <Nav.Link
-                as={Link}
-                to="/certication"
-                onClick={() => updateExpanded(false)}
-              >
-                Certificates
-              </Nav.Link>
-            </Nav.Item>
-
+          
             <Nav.Item className="fork-btn">
               <Button
                 href="https://github.com/mbhele"
