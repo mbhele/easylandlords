@@ -8,7 +8,7 @@ function Type() {
         strings: [
      
           "I am web developer",
-          "Who is based in Stellenbosch. ",
+          "who is based in Stellenbosch. ",
           "I enjoy build web applications",
           "and presenting  my software to the  clients"
         ],
