@@ -37,7 +37,7 @@ function Projects() {
               imgPath={acutesolar}
               isBlog={false}
               title="AcuteSolar"
-              description="This Website was built for the solar entiety. It a simple website built with javascript , css, html, boostrap and php tech stack. The aim of the entitity was to display it services and contact details to it customers "
+              description="This website was built for the solar entiety. It a simple website built with javascript , css, html, boostrap and php tech stack. The aim of the entitity was to display it services and contact details to it customers "
               link="https://acutesolar.co.za/"
             />
           </Col>
