@@ -24,8 +24,8 @@ function Projects() {
               imgPath={gb}
               isBlog={false}
               title="matshamatics.co.za"
-              description="This tutoring website built for for Dr Matsha who a luecture at num. The basic the website display the server doctor is rendering and the contact
-               It boostarct website hosted on the Google cloud firebase and it domain point from go daya"
+              description="This tutoring website was built for Dr Matsha. The website allow a learner to book tutoring lessons with easy. It uses css , html , javascript and google firebase for backend.
+               "
               link="http://matshamatics.co.za/"
             />
           </Col>
@@ -35,7 +35,7 @@ function Projects() {
               imgPath={acutesolar}
               isBlog={false}
               title="AcuteSolar"
-              description="The Website is for the solar entity. It a simple website built with in javascript , css, html, and boostrap. The aim of the entitity was to display it services and contact details to it customers "
+              description="The website is for the solar panel entity. It a simple website built with in javascript , css, html, and boostrap. The aim of the entitity is to display it services and contact details to it customers. "
               link="https://acutesolar.co.za/"
             />
           </Col>
